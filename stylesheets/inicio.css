@@ -1,0 +1,41 @@
+
+.container .col{
+	margin-bottom:20px;
+	padding:20px;
+	border-radius:3px;
+}
+
+.inicio{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	min-height: 100vh;
+	text-align:center;
+	
+}
+
+.botoncitos{
+	display:flex;
+	justify-content:space-around;
+}
+
+.inicio .col{
+	background:#A61010;
+	
+}
+
+.botoncitos .col.entrar{
+	margin-bottom:20px;
+	padding:20px;
+	border-radius:3px;
+}
+
+.botoncitos .col.salir{
+	margin-bottom:20px;
+	padding:20px;
+	border-radius:3px;
+}
+
+.inicio .col.title{
+	font-size:72px;
+}
