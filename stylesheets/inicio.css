@@ -39,3 +39,7 @@
 .inicio .col.title{
 	font-size:72px;
 }
+.fondo{
+	background-image:url("../image/sicario.png");
+	background-size:cover;
+}
