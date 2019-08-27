@@ -1,0 +1,58 @@
+.centro{
+	text-align: center;
+	width: 600px;
+	color: white;
+}
+
+.title{
+	margin-bottom: 20px;
+}
+
+.title strong{
+	color: #f4511e;
+}
+
+.line label{
+	display: block;
+	margin-bottom: 8px;
+	margin-top: 15px;
+	font-size: 22px;
+}
+
+.line input{
+
+}
+
+.button-enviar{
+	text-align: right;
+}
+
+.button-enviar a{
+	text-align: center;
+	border: 1px solid #bf360c;
+	padding: 20px;
+	display: block;
+	background-color: #bf360c;
+	color: white;
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+.form{
+	width: 300px;
+	margin: 0 auto;
+}
+
+.form input, .form textarea{
+	width: 100%;
+	padding: 10px 20px ;
+	border-radius: 3px;
+	border: 1px solid #dadada;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.button-enviar a:hover{
+	transform: scale(1.1);
+	background-color: #d84315;
+}
