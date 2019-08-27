@@ -19,6 +19,12 @@
 	justify-content:space-around;
 }
 
+.botoncitos a{
+	text-decoration: none;
+	color: black;
+}
+
+
 .inicio .col{
 	background:#A61010;
 	
@@ -38,4 +44,8 @@
 
 .inicio .col.title{
 	font-size:72px;
+}
+.fondo{
+	background-image:url("../image/sicario.png");
+	background-size:cover;
 }
