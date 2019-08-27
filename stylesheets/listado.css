@@ -2,6 +2,7 @@
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
+    color: red;
 }
 
 .sicarios{
@@ -32,4 +33,5 @@
 .descripcion{
     padding: 20px;
     margin-top: 30px;
+    color: red;
 }
