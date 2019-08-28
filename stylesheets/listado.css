@@ -10,6 +10,11 @@
     display: flex;
     position: relative;
     margin-bottom: 20px;
+    transition: 0.5s;
+}
+
+.sicarios:hover{
+    transform: scale(1.1);
 }
 
 .sicarios a img{
